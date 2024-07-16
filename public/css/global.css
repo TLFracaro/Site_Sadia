@@ -1,0 +1,16 @@
+@font-face {
+    font-family: BrandingBlack;
+    src: url(../assets/font/BrandingSF-Black.woff2);
+}
+@font-face {
+    font-family: BrandingBold;
+    src: url(../assets/font/BrandingSF-Bold.woff2);
+}
+@font-face {
+    font-family: BrandingMedium;
+    src: url(../assets/font/BrandingSF-Medium.woff2);
+}
+@font-face {
+    font-family: BrandingWebfont;
+    src: url(../assets/font/fontawesome-webfont.woff2);
+}
